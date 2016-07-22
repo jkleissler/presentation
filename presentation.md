@@ -5,9 +5,9 @@
 # The House that Jerry Built
 ![](http://prod.images.panthers.clubs.nflcdn.com/image-web/NFL/CDA/data/deployed/prod/PANTHERS/assets/images/imported/CAR/photos/clubimages/2016/07-July/tempsxD95s5ZIP065xo9TvofVsLe8UN2iILQ3oGXFS-spTc--nfl_mezz_1280_1024.jpg?width=960&height=720 "Jerry Statue")
 
-- Jerry Richardson, Carolina native and Wofford graduate
-- Former NFL player for the Colts
-- Founder and owner of the Carolina Panthers franchise
+* Jerry Richardson, Carolina native and Wofford graduate
+* Former NFL player for the Colts
+* Founder and owner of the Carolina Panthers franchise
 
 <aside class="notes">
 Jerry Richardson is one of two current NFL owners who are former NFL players. That experience and familiarity with the league enabled him to see his dream of bringing an NFL franchise to the Carolina's come into fruition. Since their inagural season in 1995 as an expansion team the Panthers are the only team in the NFC South to win more then two division titles and are currently looking to defend their back to back titles.
