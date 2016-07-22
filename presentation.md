@@ -3,7 +3,7 @@
 % 25 July, 2016
 
 # The House that Jerry Built
-![alt text](http://prod.images.panthers.clubs.nflcdn.com/image-web/NFL/CDA/data/deployed/prod/PANTHERS/assets/images/imported/CAR/photos/clubimages/2016/07-July/tempsxD95s5ZIP065xo9TvofVsLe8UN2iILQ3oGXFS-spTc--nfl_mezz_1280_1024.jpg?width=960&height=720 "Jerry Statue")
+![](http://prod.images.panthers.clubs.nflcdn.com/image-web/NFL/CDA/data/deployed/prod/PANTHERS/assets/images/imported/CAR/photos/clubimages/2016/07-July/tempsxD95s5ZIP065xo9TvofVsLe8UN2iILQ3oGXFS-spTc--nfl_mezz_1280_1024.jpg?width=960&height=720 "Jerry Statue")
 
 - Jerry Richardson, Carolina native and Wofford graduate
 - Former NFL player for the Colts
@@ -14,7 +14,7 @@ Jerry Richardson is one of two current NFL owners who are former NFL players. Th
 </aside>
 
 # A Franchise Year
-![alt text](http://a.fssta.com/content/dam/fsdigital/fscom/nfl/images/2016/02/06/020616-NFL-Carolina-Panthers-dab-late-in-the-game-PI.vresize.1200.675.high.21.jpg "Team Dab")
+![](http://a.fssta.com/content/dam/fsdigital/fscom/nfl/images/2016/02/06/020616-NFL-Carolina-Panthers-dab-late-in-the-game-PI.vresize.1200.675.high.21.jpg "Team Dab")
 
 - 15-1 record thes best in franchise history and the best of the 2015 season
 - Reached Super Bowl 50
@@ -25,7 +25,7 @@ The Carolina Panthers began the season with low expectations after the loss of b
 </aside>
 
 # Offensive Recap
-![alt text](http://www.charlotteobserver.com/sports/nfl/carolina-panthers/7zle4q/picture49726155/ALTERNATES/FREE_640/FALCONS_PANTHERS1213_333.JPG "Panthers Offense")
+![](http://www.charlotteobserver.com/sports/nfl/carolina-panthers/7zle4q/picture49726155/ALTERNATES/FREE_640/FALCONS_PANTHERS1213_333.JPG "Panthers Offense")
 
 - 5871 total yards of offense. 11th in NFL
 - 31.3 pts per game. 1st in NFL
@@ -35,7 +35,7 @@ Carolina had the highest scoring offense in the league averaging over 30 points 
 <\aside>
 
 # Super Cam
-![alt text](https://i.kinja-img.com/gawker-media/image/upload/idqnzkbfjwjdp8ul49ye.jpg "Super Cam")
+![](https://i.kinja-img.com/gawker-media/image/upload/idqnzkbfjwjdp8ul49ye.jpg "Super Cam")
 
 - NFL MVP
 - ESPY's NFL player of the year
@@ -48,7 +48,7 @@ Cam Newton. Famous for his fantastic smile and even more fantastic play making a
 </aside>
 
 # J Stew
-![alt text](http://sports.cbsimg.net/u/photos/football/nfl/img25476921.jpg "J. Stew")
+![](http://sports.cbsimg.net/u/photos/football/nfl/img25476921.jpg "J. Stew")
 
 - Rushing: Johnathon Stewart 989 yds
 - Only NFL team with over 100 yds rushing in every game
@@ -58,7 +58,7 @@ Jonathan Stewart, a key component of the Panthers offense, enabled Cam to throw 
 </aside>
 
 # Number 88
-![alt text](http://cdn-s3.si.com/s3fs-public/2016/01/10/mmqb-olsen-greg-sea.jpg "Greg Olsen")
+![](http://cdn-s3.si.com/s3fs-public/2016/01/10/mmqb-olsen-greg-sea.jpg "Greg Olsen")
 
 - 77 catches for a career-high 1,104 yards and seven touchdowns
 - Arguably the most well-rounded tight end and among the most durable in the league
@@ -68,7 +68,7 @@ A matchup nightmere due to his blocking ability as well as his size and physical
 </aside>
 
 # No Benjamin No Problem
-![alt text](https://i.ytimg.com/vi/A3ZWd-PCTmA/maxresdefault.jpg "Teddy")
+![](https://i.ytimg.com/vi/A3ZWd-PCTmA/maxresdefault.jpg "Teddy")
 
 - Kelvin Benjamin: season ending knee injury in training camp
 - Ginn returned to Carolina in 2015 and again nearly doubled his career receiving touchdown total, finding the end zone 10 times.
@@ -78,7 +78,7 @@ What an impact they had. Teddy Ginn Jr, Philly Brown, Jerricho Cotchery, and roo
 </aside>
 
 # Defensive Recap
-![alt text](https://blog.rukkus.com/wp-content/uploads/2015/11/Carolina-Panthers.jpeg "D-line")
+![](https://blog.rukkus.com/wp-content/uploads/2015/11/Carolina-Panthers.jpeg "D-line")
 
 - 5167 total yards given up. 6th in NFL
 - 19.3 pts given up per game. 6th in NFL
@@ -89,7 +89,7 @@ Up until this past season Carolina had built its succcess on the back of its def
 </aside>
 
 # Hog Mollies
-![alt text](http://www.wccbcharlotte.com/wp-content/uploads/2016/01/kawann-short.jpg "Short")
+![](http://www.wccbcharlotte.com/wp-content/uploads/2016/01/kawann-short.jpg "Short")
 
 - 6th in the NFL with 44 sacks
 - Kawann Short lead the team and tied for 8th in NFL with 11 sacks
@@ -99,7 +99,7 @@ GM Dave Gettleman has a core philosophy which he religiously follows when buildi
 </aside>
 
 # Keep Pounding
-![alt text](http://cdn-s3.si.com/s3fs-public/styles/si_article_main/public/[current-date:custom:Y]/[current-date:custom:m]/[current-date:custom:d]/steph-curry-custom-keep-pounding-shirt-super-bowl.jpg?itok=M4Cltji7 "Steph")
+![](http://cdn-s3.si.com/s3fs-public/styles/si_article_main/public/[current-date:custom:Y]/[current-date:custom:m]/[current-date:custom:d]/steph-curry-custom-keep-pounding-shirt-super-bowl.jpg?itok=M4Cltji7 "Steph")
 
 - Tore shoulder in NFC Championship but played with stitches in the Super Bowl
 - Led the team with 4 forced fumbles
@@ -110,7 +110,7 @@ Thomas Davis Sr. is a living embodiment of the Panthers slogan, Keep Pounding, a
 </aside>
 
 # Captain America
-![alt text](http://www.charlotteobserver.com/sports/nfl/carolina-panthers/t9fgy6/picture47598360/ALTERNATES/FREE_640/Luke-Kuechly "Luke")
+![](http://www.charlotteobserver.com/sports/nfl/carolina-panthers/t9fgy6/picture47598360/ALTERNATES/FREE_640/Luke-Kuechly "Luke")
 
 - Led team with 137 tackles despite missing 3 games
 - the first player in NFL history with a pick-six in consecutive playoff games
@@ -120,7 +120,7 @@ Luke Kuechly is the heart of the defense. A former defensive player of the year 
 </aside>
 
 # Thieves Avenue
-![alt text](http://a.fssta.com/content/dam/fsdigital/fscom/nfl/images/2015/09/27/092715-NFL-Carolina-Panthers-Josh-Norman-interception-MM-PI.vresize.1200.675.high.67.jpg "Josh")
+![](http://a.fssta.com/content/dam/fsdigital/fscom/nfl/images/2015/09/27/092715-NFL-Carolina-Panthers-Josh-Norman-interception-MM-PI.vresize.1200.675.high.67.jpg "Josh")
 
 - 24 interceptions to lead NFL. 4 by Josh Norman and 7 from Kurt Coleman
 - Defensive TD’s: Josh Norman 2
@@ -129,7 +129,7 @@ Luke Kuechly is the heart of the defense. A former defensive player of the year 
 The secondary blew up the NFC South this year putting opposing QB's on notice. Led by Kurt Coleman and Josh Norman and with the help of veteran Roman Harper, Peanut Tillman, and the young upcoming Tre Boston, they had the record for most interceptions in the NFL.
 
 # The Next Chapter
-![alt text](http://cbssports.com/images/blogs/Super_Bowl_50_Cam_Newton_Press_Conference_Panthers.jpg "Super Bowl")
+![](http://cbssports.com/images/blogs/Super_Bowl_50_Cam_Newton_Press_Conference_Panthers.jpg "Super Bowl")
 
 - Looking to defend back to back NFC South titles
 - Josh Norman let go after contract disagreement
