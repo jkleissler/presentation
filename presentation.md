@@ -8,7 +8,7 @@
 - Former NFL player for the Colts
 - Founder and owner of the Carolina Panthers franchise
 <aside class="notes">
-Jerry Richardson is one of two current NFL owners who are former NFL players. With that experience and familiarity with the league enabled him to see his dream of bringing an NFL franchise to the Carolina's a come into fruition. Since their inagural season in 1995 as an expansion team the Panthers are the only team in the NFC South to win more then two division titles and are currently looking to defend their back to back titles.
+Jerry Richardson is one of two current NFL owners who are former NFL players. That experience and familiarity with the league enabled him to see his dream of bringing an NFL franchise to the Carolina's come into fruition. Since their inagural season in 1995 as an expansion team the Panthers are the only team in the NFC South to win more then two division titles and are currently looking to defend their back to back titles.
 </aside>
 
 # A Franchise Year
