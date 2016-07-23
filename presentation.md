@@ -16,7 +16,7 @@ Jerry Richardson is one of two current NFL owners who are former NFL players. Th
 # A Franchise Year
 ![](http://a.fssta.com/content/dam/fsdigital/fscom/nfl/images/2016/02/06/020616-NFL-Carolina-Panthers-dab-late-in-the-game-PI.vresize.1200.675.high.21.jpg "Team Dab")
 
-- 15-1 record thes best in franchise history and the best of the 2015 season
+- 15-1 record the best in franchise history and the best of the 2015 season
 - Reached Super Bowl 50
 - League best 10 Pro Bowlers
 
