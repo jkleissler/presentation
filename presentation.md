@@ -40,8 +40,11 @@ Carolina had the highest scoring offense in the league averaging over 30 points 
 - NFL MVP
 - ESPY's NFL player of the year
 - #1 player in NFL voted by the players
-- Passing: Cam Newton 3837 yds
-- Rushing TD’s: Cam Newton 10
+- Most career rushing TD by a QB
+
+| Player     | Pass YDS | Pass TD | INT | Rush YDS | Rush TD |
+|------------|----------|---------|-----|----------|---------|
+| Cam Newton | 3,837    | 35      | 10  | 636      | 10      |
 
 <aside class="notes">
 Cam Newton. Famous for his fantastic smile and even more fantastic play making ability. In 2015 he introduced America to the dab, a dance he would regularly do on scoring drives. However, he is much more than dance moves and giving footballs to children after his celebrations. He is the first NFL quarterback to throw for 35 touchdowns and run for 10 more in a single season. He was the team leader in rushing touchdowns and also passed for nearly 4,000 yards. His accomplishments earned him the 2015 NFL MVP award.
@@ -50,8 +53,12 @@ Cam Newton. Famous for his fantastic smile and even more fantastic play making a
 # J Stew
 ![](http://sports.cbsimg.net/u/photos/football/nfl/img25476921.jpg "J. Stew")
 
-- Rushing: Johnathon Stewart 989 yds
+- Leading rusher: Jonathan Stewart
 - Only NFL team with over 100 yds rushing in every game
+
+| Player  | Rush YDS | Rush TD |
+|---------|----------|---------|
+|J Stewart| 989     | 6        |
 
 <aside class="notes">
 Jonathan Stewart, a key component of the Panthers offense, enabled Cam to throw the ball by carving up the defense for yard after yard everytime he would touch the ball. Stewart took over as the primary runner after long time Panther Deangello Williams was let go to the Steelers, and he took full advantage establishing himself as a star when healthy. 
@@ -60,8 +67,12 @@ Jonathan Stewart, a key component of the Panthers offense, enabled Cam to throw 
 # Number 88
 ![](http://cdn-s3.si.com/s3fs-public/2016/01/10/mmqb-olsen-greg-sea.jpg "Greg Olsen")
 
-- 77 catches for a career-high 1,104 yards and seven touchdowns
+- 2015 Pro Bowler
 - Arguably the most well-rounded tight end and among the most durable in the league
+
+| Player  |  Receptions | Rec YDS | Rec TD |
+|---------|-------------|---------|--------|
+|J Stewart| 77          | 1,104   | 7      |
 
 <aside class="notes">
 A matchup nightmere due to his blocking ability as well as his size and physicality. Greg Olsen is entering the twilight years of his career, however shows no signs of slowing down as of yet. By far Cam's favorite target throughout the year 88 drew so much attention from opposing defenses that it opened up room for other playmakers to have an impact.
@@ -105,6 +116,10 @@ GM Dave Gettleman has a core philosophy which he religiously follows when buildi
 - Led the team with 4 forced fumbles
 - Key Play: goal line interception of Aaron Rodgers in the fourth quarter of a one possesion game
 
+| Player     | Tackles | Sack |
+|------------|---------|------|
+|Thomas Davis| 105     | 5.5  |
+
 <aside class="notes">
 Thomas Davis Sr. is a living embodiment of the Panthers slogan, Keep Pounding, after recovering from 2 torn ACL in his career as well as persevering through breaking his arm in the NFC Championship game to play in the Super Bowl he will make superogetory sacrices to be out on the field with his teammates.
 </aside>
@@ -112,8 +127,12 @@ Thomas Davis Sr. is a living embodiment of the Panthers slogan, Keep Pounding, a
 # Captain America
 ![](http://www.charlotteobserver.com/sports/nfl/carolina-panthers/t9fgy6/picture47598360/ALTERNATES/FREE_640/Luke-Kuechly "Luke")
 
-- Led team with 137 tackles despite missing 3 games
+- Led team in tackles despite missing 3 games
 - the first player in NFL history with a pick-six in consecutive playoff games
+
+| Player      | Tackles | Sack |
+|-------------|---------|------|
+|Luke Kuechly | 118     | 1    |
 
 <aside class="notes">
 Luke Kuechly is the heart of the defense. A former defensive player of the year in the NFL, Luke overcame missing three games due to a concussion to achieve career highlights of back to back picks against Tony Romo on thanksgiving as well as two pick 6’s in the playoffs to help the Panthers reach the Super Bowl.
@@ -123,7 +142,7 @@ Luke Kuechly is the heart of the defense. A former defensive player of the year 
 ![](http://a.fssta.com/content/dam/fsdigital/fscom/nfl/images/2015/09/27/092715-NFL-Carolina-Panthers-Josh-Norman-interception-MM-PI.vresize.1200.675.high.67.jpg "Josh")
 
 - 24 interceptions to lead NFL. 4 by Josh Norman and 7 from Kurt Coleman
-- Defensive TD’s: Josh Norman 2
+- Josh Norman nominated Defensive Player of the Year
 
 <aside class="notes">
 The secondary blew up the NFC South this year putting opposing QB's on notice. Led by Kurt Coleman and Josh Norman and with the help of veteran Roman Harper, Peanut Tillman, and the young upcoming Tre Boston, they had the record for most interceptions in the NFL.
